@@ -1,0 +1,13 @@
+1. insert taxdump/names and taxdump/nodes as they are to the tables
+    biodb_ncbi and hier_ncbi
+2. by using biodb.sqling.selector.Selector get lineages of each species (level = 6)
+    a. if a lineage includes all the ranks between 1-6 leave it as it is. 
+    b. if a lineage lacks one of the ranks between 1-6, check if sub or super version of the lacking rank exists anywhere in the lineage
+    c. identify the unused ranks and delete them, shrink the database more. it is too big in its current version
+
+
+    c.i. build a database of lineages. check if ids or the names themselves are more efficent!
+         (convert balter db to a lineage database of identifiers only instead of the fullnames
+          the time consuming step is not finding the names but building the lineages.
+          if converting lineages from ids to names is too time consuming stick to the original balter
+          idea. do not use fantom.db. migrate totally to balter with a database tables of the names (biodb) and hierarchies (balter) )

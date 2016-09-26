@@ -1,0 +1,500 @@
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	HK; hexokinase [EC:2.7.1.1]	K00844
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GCK; glucokinase [EC:2.7.1.2]	K12407
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	glk; glucokinase [EC:2.7.1.2]	K00845
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ppgK; polyphosphate glucokinase [EC:2.7.1.63]	K00886
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ADPGK; ADP-dependent glucokinase [EC:2.7.1.147]	K08074
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pfkC; ADP-dependent phosphofructokinase/glucokinase [EC:2.7.1.146 2.7.1.147]	K00918
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GPI, pgi; glucose-6-phosphate isomerase [EC:5.3.1.9]	K01810
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pgi1; glucose-6-phosphate isomerase, archaeal [EC:5.3.1.9]	K06859
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pgi-pmi; glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8]	K15916
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pfkA, PFK; 6-phosphofructokinase 1 [EC:2.7.1.11]	K00850
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pfkB; 6-phosphofructokinase 2 [EC:2.7.1.11]	K16370
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ALDO; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	K01623
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	FBA, fbaA; fructose-bisphosphate aldolase, class II [EC:4.1.2.13]	K01624
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fbaB; fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	K11645
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K16305; fructose-bisphosphate aldolase / 6-deoxy-5-ketofructose 1-phosphate synthase [EC:4.1.2.13 2.2.1.11]	K16305
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K16306; fructose-bisphosphate aldolase / 2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase [EC:4.1.2.13 2.2.1.10]	K16306
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]	K01803
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	K00134
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	K00150
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]	K00927
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gapor; glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) [EC:1.2.7.6]	K11389
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	K01834
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	K15633
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gpmB; probable phosphoglycerate mutase [EC:5.4.2.12]	K15634
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	apgM; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	K15635
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ENO, eno; enolase [EC:4.2.1.11]	K01689
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PK, pyk; pyruvate kinase [EC:2.7.1.40]	K00873
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PKLR; pyruvate kinase isozymes R/L [EC:2.7.1.40]	K12406
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K01622; fructose 1,6-bisphosphate aldolase/phosphatase [EC:4.1.2.13 3.1.3.11]	K01622
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	aceE; pyruvate dehydrogenase E1 component [EC:1.2.4.1]	K00163
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PDHA, pdhA; pyruvate dehydrogenase E1 component alpha subunit [EC:1.2.4.1]	K00161
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PDHB, pdhB; pyruvate dehydrogenase E1 component beta subunit [EC:1.2.4.1]	K00162
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	DLAT, aceF, pdhC; pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]	K00627
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	DLD, lpd, pdhD; dihydrolipoamide dehydrogenase [EC:1.8.1.4]	K00382
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	porA; pyruvate ferredoxin oxidoreductase alpha subunit [EC:1.2.7.1]	K00169
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	porB; pyruvate ferredoxin oxidoreductase beta subunit [EC:1.2.7.1]	K00170
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	porD; pyruvate ferredoxin oxidoreductase delta subunit [EC:1.2.7.1]	K00171
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	porG; pyruvate ferredoxin oxidoreductase gamma subunit [EC:1.2.7.1]	K00172
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ME2, sfcA, maeA; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	K00027
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E1.1.1.39; malate dehydrogenase (decarboxylating) [EC:1.1.1.39]	K00028
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E1.1.1.40, maeB; malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) [EC:1.1.1.40]	K00029
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	H6PD; hexose-6-phosphate dehydrogenase [EC:1.1.1.47 3.1.1.31]	K13937
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	G6PD, zwf; glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49]	K00036
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	azf; NAD+ dependent glucose-6-phosphate dehydrogenase [EC:1.1.1.-]	K19243
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PGLS, pgl, devB; 6-phosphogluconolactonase [EC:3.1.1.31]	K01057
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pgl; 6-phosphogluconolactonase [EC:3.1.1.31]	K07404
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PGD, gnd, gntZ; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	K00033
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	rpe, RPE; ribulose-phosphate 3-epimerase [EC:5.1.3.1]	K01783
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	rpiA; ribose 5-phosphate isomerase A [EC:5.3.1.6]	K01807
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	rpiB; ribose 5-phosphate isomerase B [EC:5.3.1.6]	K01808
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E2.2.1.1, tktA, tktB; transketolase [EC:2.2.1.1]	K00615
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E2.2.1.2, talA, talB; transaldolase [EC:2.2.1.2]	K00616
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	tal-pgi; transaldolase / glucose-6-phosphate isomerase [EC:2.2.1.2 5.3.1.9]	K13810
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hxlB; 6-phospho-3-hexuloisomerase [EC:5.3.1.27]	K08094
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hxlA; 3-hexulose-6-phosphate synthase [EC:4.1.2.43]	K08093
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fae-hps; bifunctional enzyme Fae/Hps [EC:4.2.1.147 4.1.2.43]	K13812
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hps-phi; 3-hexulose-6-phosphate synthase / 6-phospho-3-hexuloisomerase [EC:4.1.2.43 5.3.1.27]	K13831
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PRPS, prsA; ribose-phosphate pyrophosphokinase [EC:2.7.6.1]	K00948
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gdh; glucose 1-dehydrogenase [EC:1.1.1.47]	K00034
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gdh2, gdhA; glucose/galactose 1-dehydrogenase (NADP+) [EC:1.1.1.360]	K18124
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ssgdh; aldose 1-dehydrogenase [NAD(P)+] [EC:1.1.1.359]	K18125
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E3.1.1.17, gnl, RGN; gluconolactonase [EC:3.1.1.17]	K01053
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E2.7.1.12, gntK, idnK; gluconokinase [EC:2.7.1.12]	K00851
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	edd; phosphogluconate dehydratase [EC:4.2.1.12]	K01690
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	eda; 2-dehydro-3-deoxyphosphogluconate aldolase / (4S)-4-hydroxy-2-oxoglutarate aldolase [EC:4.1.2.14 4.1.3.42]	K01625
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gnaD; gluconate/galactonate dehydratase [EC:4.2.1.140]	K05308
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	kdgK; 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]	K00874
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sskdgK; 2-dehydro-3-deoxygluconokinase / 2-dehydro-3-deoxygalactonokinase [EC:2.7.1.178]	K18126
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	kdpgA; 2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6-phosphogalactonate aldolase [EC:4.1.2.55]	K11395
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gapN; glyceraldehyde-3-phosphate dehydrogenase (NADP+) [EC:1.2.1.9]	K00131
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gapN; glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+] [EC:1.2.1.90]	K18978
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	kdgA; 2-dehydro-3-deoxy-D-gluconate aldolase [EC:4.1.2.51]	K18127
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cutA; glyceraldehyde dehydrogenase large subunit [EC:1.2.99.8]	K18020
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cutB; glyceraldehyde dehydrogenase medium subunit [EC:1.2.99.8]	K18021
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cutC1; glyceraldehyde dehydrogenase small subunit [EC:1.2.99.8]	K18022
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gadh; D-glyceraldehyde dehydrogenase (NADP+) [EC:1.2.1.89]	K18128
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	aor; aldehyde:ferredoxin oxidoreductase [EC:1.2.7.5]	K03738
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	CS, gltA; citrate synthase [EC:2.3.3.1]	K01647
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ACO, acnA; aconitate hydratase [EC:4.2.1.3]	K01681
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]	K01682
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]	K00030
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	OGDH, sucA; 2-oxoglutarate dehydrogenase E1 component [EC:1.2.4.2]	K00164
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	DLST, sucB; 2-oxoglutarate dehydrogenase E2 component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]	K00658
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	korA, oorA; 2-oxoglutarate ferredoxin oxidoreductase subunit alpha [EC:1.2.7.3]	K00174
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	korB, oorB; 2-oxoglutarate ferredoxin oxidoreductase subunit beta [EC:1.2.7.3]	K00175
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	korC, oorC; 2-oxoglutarate ferredoxin oxidoreductase subunit gamma [EC:1.2.7.3]	K00177
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	korD, oorD; 2-oxoglutarate ferredoxin oxidoreductase subunit delta [EC:1.2.7.3]	K00176
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sucD; succinyl-CoA synthetase alpha subunit [EC:6.2.1.5]	K01902
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sucC; succinyl-CoA synthetase beta subunit [EC:6.2.1.5]	K01903
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	LSC1; succinyl-CoA synthetase alpha subunit [EC:6.2.1.4 6.2.1.5]	K01899
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	LSC2; succinyl-CoA synthetase beta subunit [EC:6.2.1.4 6.2.1.5]	K01900
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	aarC, cat1; succinyl-CoA:acetate CoA-transferase [EC:2.8.3.18]	K18118
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	SDHA, SDH1; succinate dehydrogenase (ubiquinone) flavoprotein subunit [EC:1.3.5.1]	K00234
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	SDHB, SDH2; succinate dehydrogenase (ubiquinone) iron-sulfur subunit [EC:1.3.5.1]	K00235
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	SDHC, SDH3; succinate dehydrogenase (ubiquinone) cytochrome b560 subunit	K00236
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	SDHD, SDH4; succinate dehydrogenase (ubiquinone) membrane anchor subunit	K00237
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sdhA, frdA; succinate dehydrogenase / fumarate reductase, flavoprotein subunit [EC:1.3.5.1 1.3.5.4]	K00239
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sdhB, frdB; succinate dehydrogenase / fumarate reductase, iron-sulfur subunit [EC:1.3.5.1 1.3.5.4]	K00240
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sdhC, frdC; succinate dehydrogenase / fumarate reductase, cytochrome b subunit	K00241
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sdhD, frdD; succinate dehydrogenase / fumarate reductase, membrane anchor subunit	K00242
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sdhD, frdD; succinate dehydrogenase / fumarate reductase, subunit D	K18859
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	sdhD, frdD; putative succinate dehydrogenase / fumarate reductase, subunit D	K18860
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdA; fumarate reductase flavoprotein subunit [EC:1.3.5.4]	K00244
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdB; fumarate reductase iron-sulfur subunit [EC:1.3.5.4]	K00245
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdC; fumarate reductase subunit C	K00246
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdD; fumarate reductase subunit D	K00247
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E4.2.1.2A, fumA, fumB; fumarate hydratase, class I [EC:4.2.1.2]	K01676
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E4.2.1.2B, fumC; fumarate hydratase, class II [EC:4.2.1.2]	K01679
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E4.2.1.2AA, fumA; fumarate hydratase subunit alpha [EC:4.2.1.2]	K01677
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E4.2.1.2AB, fumB; fumarate hydratase subunit beta [EC:4.2.1.2]	K01678
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	MDH2; malate dehydrogenase [EC:1.1.1.37]	K00026
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	MDH1; malate dehydrogenase [EC:1.1.1.37]	K00025
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mdh; malate dehydrogenase [EC:1.1.1.37]	K00024
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mqo; malate dehydrogenase (quinone) [EC:1.1.5.4]	K00116
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E4.1.3.1, aceA; isocitrate lyase [EC:4.1.3.1]	K01637
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E2.3.3.9, aceB, glcB; malate synthase [EC:2.3.3.9]	K01638
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E1.1.1.36, phbB; acetoacetyl-CoA reductase [EC:1.1.1.36]	K00023
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	croR; 3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]	K17865
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ccr; crotonyl-CoA carboxylase/reductase [EC:1.3.1.85]	K14446
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ecm; (2R)-ethylmalonyl-CoA mutase	K14447
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mcd; (2S)-methylsuccinyl-CoA dehydrogenase [EC:1.3.8.12]	K14448
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mcl2; (3S)-malyl-CoA thioesterase [EC:3.1.2.30]	K14451
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GLUD1_2, gdhA; glutamate dehydrogenase (NAD(P)+) [EC:1.4.1.3]	K00261
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	glmE, mutE, mamB; methylaspartate mutase epsilon subunit [EC:5.4.99.1]	K19268
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	glmS, mutS, mamA; methylaspartate mutase sigma subunit [EC:5.4.99.1]	K01846
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mal; methylaspartate ammonia-lyase [EC:4.3.1.2]	K04835
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mct; succinyl-CoA:mesaconate CoA transferase [EC:2.8.3.-]	K19280
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mcl; beta-methylmalyl-CoA/(S)-malyl-CoA lyase [EC:4.1.3.24]	K19281
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	aceB; bifunctional (S)-malyl-CoA lyase/thioesterase [EC:4.1.3.24 3.1.2.30]	K19282
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PCCA, pccA; propionyl-CoA carboxylase alpha chain [EC:6.4.1.3]	K01965
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PCCB, pccB; propionyl-CoA carboxylase beta chain [EC:6.4.1.3]	K01966
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	bccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	K11263
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	accD6; acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit [EC:6.4.1.2 6.4.1.3]	K18472
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K19312; acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit [EC:6.4.1.2 6.4.1.3]	K19312
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E5.4.99.2; methylmalonyl-CoA mutase [EC:5.4.99.2]	K11942
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PGP, PGLP; phosphoglycolate phosphatase [EC:3.1.3.18 3.1.3.48]	K19269
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	HAO; (S)-2-hydroxy-acid oxidase [EC:1.1.3.15]	K11517
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	katE, CAT, catB, srpA; catalase [EC:1.11.1.6]	K03781
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	HPR1; hydroxypyruvate reductase 1	K15893
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	HPR2; hydroxypyruvate reductase 2	K15919
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GLYK; D-glycerate 3-kinase [EC:2.7.1.31]	K15918
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PRK, prkB; phosphoribulokinase [EC:2.7.1.19]	K00855
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	rbcL; ribulose-bisphosphate carboxylase large chain [EC:4.1.1.39]	K01601
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	rbcS; ribulose-bisphosphate carboxylase small chain [EC:4.1.1.39]	K01602
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GAPA; glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) [EC:1.2.1.13]	K05298
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	FBP, fbp; fructose-1,6-bisphosphatase I [EC:3.1.3.11]	K03841
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	glpX; fructose-1,6-bisphosphatase II [EC:3.1.3.11]	K02446
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	glpX-SEBP; fructose-1,6-bisphosphatase II / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37]	K11532
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fbp-SEBP; fructose-1,6-bisphosphatase I / sedoheptulose-1,7-bisphosphatase [EC:3.1.3.11 3.1.3.37]	K01086
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fbp3; fructose-1,6-bisphosphatase III [EC:3.1.3.11]	K04041
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E3.1.3.37; sedoheptulose-bisphosphatase [EC:3.1.3.37]	K01100
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ppc; phosphoenolpyruvate carboxylase [EC:4.1.1.31]	K01595
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GOT1; aspartate aminotransferase, cytoplasmic [EC:2.6.1.1]	K14454
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GOT2; aspartate aminotransferase, mitochondrial [EC:2.6.1.1]	K14455
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GPT, ALT; alanine transaminase [EC:2.6.1.2]	K00814
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GGAT; glutamate--glyoxylate aminotransferase [EC:2.6.1.4 2.6.1.2 2.6.1.44]	K14272
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ppdK; pyruvate, orthophosphate dikinase [EC:2.7.9.1]	K01006
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E4.1.1.49, pckA; phosphoenolpyruvate carboxykinase (ATP) [EC:4.1.1.49]	K01610
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E1.1.1.82; malate dehydrogenase (NADP+) [EC:1.1.1.82]	K00051
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	por, nifJ; pyruvate-ferredoxin/flavodoxin oxidoreductase [EC:1.2.7.1 1.2.7.-]	K03737
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pps, ppsA; pyruvate, water dikinase [EC:2.7.9.2]	K01007
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	PC, pyc; pyruvate carboxylase [EC:6.4.1.1]	K01958
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pycA; pyruvate carboxylase subunit A [EC:6.4.1.1]	K01959
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pycB; pyruvate carboxylase subunit B [EC:6.4.1.1]	K01960
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdA; NADH-dependent fumarate reductase subunit A [EC:1.3.1.6]	K18556
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdB; NADH-dependent fumarate reductase subunit B [EC:1.3.1.6]	K18557
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdC; NADH-dependent fumarate reductase subunit C	K18558
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdD; NADH-dependent fumarate reductase subunit D	K18559
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frdE; NADH-dependent fumarate reductase subunit E	K18560
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	tfrA; fumarate reductase (CoM/CoB) subunit A [EC:1.3.4.1]	K18209
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	tfrB; fumarate reductase (CoM/CoB) subunit B [EC:1.3.4.1]	K18210
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	aclA; ATP-citrate lyase alpha-subunit [EC:2.3.3.8]	K15230
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	aclB; ATP-citrate lyase beta-subunit [EC:2.3.3.8]	K15231
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ccsA; citryl-CoA synthetase large subunit [EC:6.2.1.18]	K15232
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ccsB; citryl-CoA synthetase small subunit	K15233
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ccl; citryl-CoA lyase [EC:4.1.3.34]	K15234
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein	K02160
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]	K01961
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]	K01962
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]	K01963
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K01964; acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	K01964
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15036; acetyl-CoA/propionyl-CoA carboxylase [EC:6.4.1.2 6.4.1.3]	K15036
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15037; biotin carboxyl carrier protein	K15037
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mcr; malonyl-CoA reductase / 3-hydroxypropionate dehydrogenase (NADP+) [EC:1.2.1.75 1.1.1.298]	K14468
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15017; malonyl-CoA/succinyl-CoA reductase (NADPH) [EC:1.2.1.75 1.2.1.76]	K15017
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15039; 3-hydroxypropionate dehydrogenase (NADP+) [EC:1.1.1.298]	K15039
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K14469; acrylyl-CoA reductase (NADPH) / 3-hydroxypropionyl-CoA dehydratase / 3-hydroxypropionyl-CoA synthetase [EC:1.3.1.84 4.2.1.116 6.2.1.36]	K14469
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15018; 3-hydroxypropionyl-coenzyme A synthetase [EC:6.2.1.36]	K15018
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15019; 3-hydroxypropionyl-coenzyme A dehydratase [EC:4.2.1.116]	K15019
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15020; acryloyl-coenzyme A reductase [EC:1.3.1.84]	K15020
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15052; propionyl-CoA carboxylase [EC:6.4.1.3]	K15052
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	MCEE, epi; methylmalonyl-CoA/ethylmalonyl-CoA epimerase [EC:5.1.99.1]	K05606
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	MUT; methylmalonyl-CoA mutase [EC:5.4.99.2]	K01847
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E5.4.99.2A, mcmA1; methylmalonyl-CoA mutase, N-terminal domain [EC:5.4.99.2]	K01848
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E5.4.99.2B, mcmA2; methylmalonyl-CoA mutase, C-terminal domain [EC:5.4.99.2]	K01849
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	smtA1; succinyl-CoA:(S)-malate CoA-transferase subunit A [EC:2.8.3.22]	K14471
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	smtB; succinyl-CoA:(S)-malate CoA-transferase subunit B [EC:2.8.3.22]	K14472
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mcl; malyl-CoA/(S)-citramalyl-CoA lyase [EC:4.1.3.24 4.1.3.25]	K08691
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mch, mcd; 2-methylfumaryl-CoA hydratase [EC:4.2.1.148]	K14449
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mct; 2-methylfumaryl-CoA isomerase [EC:5.4.1.3]	K14470
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	meh; 3-methylfumaryl-CoA hydratase [EC:4.2.1.153]	K09709
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15038; succinyl-CoA reductase [EC:1.2.1.76]	K15038
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K14465; succinate semialdehyde reductase (NADPH) [EC:1.1.1.-]	K14465
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K14466; 4-hydroxybutyrate---CoA ligase (AMP-forming) [EC:6.2.1.40]	K14466
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	4hbl; 4-hydroxybutyrate---CoA ligase (AMP-forming) [EC:6.2.1.40]	K14467
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K18861; 4-hydroxybutyrate---CoA ligase (AMP-forming) [EC:6.2.1.40]	K18861
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	abfD; 4-hydroxybutyryl-CoA dehydratase / vinylacetyl-CoA-Delta-isomerase [EC:4.2.1.120 5.3.3.3]	K14534
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15016; enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35]	K15016
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E2.3.1.9, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	K00626
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cooS, acsA; carbon-monoxide dehydrogenase catalytic subunit [EC:1.2.99.2 1.2.7.4]	K00198
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cooF; carbon-monoxide dehydrogenase iron sulfur subunit	K00196
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	coxS; carbon-monoxide dehydrogenase small subunit [EC:1.2.99.2]	K03518
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	coxM, cutM; carbon-monoxide dehydrogenase medium subunit [EC:1.2.99.2]	K03519
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	coxL, cutL; carbon-monoxide dehydrogenase large subunit [EC:1.2.99.2]	K03520
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cdhA; acetyl-CoA decarbonylase/synthase complex subunit alpha [EC:1.2.7.4]	K00192
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cdhB; acetyl-CoA decarbonylase/synthase complex subunit epsilon	K00195
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fdhA1; formate dehydrogenase alpha subunit [EC:1.2.1.43]	K05299
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fdhB1; formate dehydrogenase beta subunit [EC:1.2.1.43]	K15022
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fhs; formate--tetrahydrofolate ligase [EC:6.3.4.3]	K01938
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9]	K01491
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	metF, MTHFR; methylenetetrahydrofolate reductase (NADPH) [EC:1.5.1.20]	K00297
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	acsE; 5-methyltetrahydrofolate corrinoid/iron sulfur protein methyltransferase [EC:2.1.1.258]	K15023
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	acsB; acetyl-CoA synthase [EC:2.3.1.169]	K14138
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cdhE, acsC; acetyl-CoA decarbonylase/synthase complex subunit gamma [EC:2.1.1.245]	K00197
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cdhD, acsD; acetyl-CoA decarbonylase/synthase complex subunit delta [EC:2.1.1.245]	K00194
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pmoA-amoA; methane/ammonia monooxygenase subunit A [EC:1.14.18.3 1.14.99.39]	K10944
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pmoB-amoB; methane/ammonia monooxygenase subunit B	K10945
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pmoC-amoC; methane/ammonia monooxygenase subunit C	K10946
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mmoX; methane monooxygenase component A alpha chain [EC:1.14.13.25]	K16157
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mmoY; methane monooxygenase component A beta chain [EC:1.14.13.25]	K16158
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mmoZ; methane monooxygenase component A gamma chain [EC:1.14.13.25]	K16159
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mmoB; methane monooxygenase regulatory protein B	K16160
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mmoC; methane monooxygenase component C [EC:1.14.13.25]	K16161
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mmoD; methane monooxygenase component D	K16162
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mdh1, mxaF; methanol dehydrogenase (cytochrome c) subunit 1 [EC:1.1.2.7]	K14028
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mdh2, mxaI; methanol dehydrogenase (cytochrome c) subunit 2 [EC:1.1.2.7]	K14029
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	MOX; alcohol oxidase [EC:1.1.3.13]	K17066
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fae; 5,6,7,8-tetrahydromethanopterin hydro-lyase [EC:4.2.1.147]	K10713
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtdB; methylene-tetrahydromethanopterin dehydrogenase [EC:1.5.1.-]	K10714
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fdhA; glutathione-independent formaldehyde dehydrogenase [EC:1.2.1.46]	K00148
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mdo; methanol:N,N-dimethyl-4-nitrosoaniline oxidoreductase [EC:1.2.98.1]	K17067
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gfa; S-(hydroxymethyl)glutathione synthase [EC:4.4.1.22]	K03396
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frmA, ADH5, adhC; S-(hydroxymethyl)glutathione dehydrogenase / alcohol dehydrogenase [EC:1.1.1.284 1.1.1.1]	K00121
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	frmB, ESD, fghA; S-formylglutathione hydrolase [EC:3.1.2.12]	K01070
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	FDH; formate dehydrogenase [EC:1.2.1.2]	K00122
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fdoG, fdfH; formate dehydrogenase major subunit [EC:1.2.1.2]	K00123
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fdoH; formate dehydrogenase iron-sulfur subunit	K00124
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E1.2.1.2B2; formate dehydrogenase, beta subunit [EC:1.2.1.2]	K00125
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fdsD; formate dehydrogenase subunit delta [EC:1.2.1.2]	K00126
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fdoI; formate dehydrogenase subunit gamma	K00127
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fwdA, fmdA; formylmethanofuran dehydrogenase subunit A [EC:1.2.99.5]	K00200
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fwdB, fmdB; formylmethanofuran dehydrogenase subunit B [EC:1.2.99.5]	K00201
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fwdC, fmdC; formylmethanofuran dehydrogenase subunit C [EC:1.2.99.5]	K00202
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fwdD, fmdD; formylmethanofuran dehydrogenase subunit D [EC:1.2.99.5]	K00203
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fwdE, fmdE; formylmethanofuran dehydrogenase subunit E [EC:1.2.99.5]	K11261
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fwdF, fmdF; 4Fe-4S ferredoxin	K00205
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fwdG; 4Fe-4S ferredoxin	K11260
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fwdH; 4Fe-4S ferredoxin	K00204
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ftr; formylmethanofuran--tetrahydromethanopterin N-formyltransferase [EC:2.3.1.101]	K00672
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mch; methenyltetrahydromethanopterin cyclohydrolase [EC:3.5.4.27]	K01499
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtd; methylenetetrahydromethanopterin dehydrogenase [EC:1.5.98.1]	K00319
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hmd; 5,10-methenyltetrahydromethanopterin hydrogenase [EC:1.12.98.2]	K13942
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mer; 5,10-methylenetetrahydromethanopterin reductase [EC:1.5.98.2]	K00320
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K15024; putative phosphotransacetylase [EC:2.3.1.8]	K15024
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ackA; acetate kinase [EC:2.7.2.1]	K00925
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E2.3.1.8, pta; phosphate acetyltransferase [EC:2.3.1.8]	K00625
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	pta; phosphate acetyltransferase [EC:2.3.1.8]	K13788
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ACSS, acs; acetyl-CoA synthetase [EC:6.2.1.1]	K01895
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cdhC; acetyl-CoA decarbonylase/synthase complex subunit beta [EC:2.3.1.-]	K00193
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtrA; tetrahydromethanopterin S-methyltransferase subunit A [EC:2.1.1.86]	K00577
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtrB; tetrahydromethanopterin S-methyltransferase subunit B [EC:2.1.1.86]	K00578
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtrC; tetrahydromethanopterin S-methyltransferase subunit C [EC:2.1.1.86]	K00579
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtrD; tetrahydromethanopterin S-methyltransferase subunit D [EC:2.1.1.86]	K00580
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtrE; tetrahydromethanopterin S-methyltransferase subunit E [EC:2.1.1.86]	K00581
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtrF; tetrahydromethanopterin S-methyltransferase subunit F [EC:2.1.1.86]	K00582
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtrG; tetrahydromethanopterin S-methyltransferase subunit G [EC:2.1.1.86]	K00583
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtrH; tetrahydromethanopterin S-methyltransferase subunit H [EC:2.1.1.86]	K00584
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtaA; [methyl-Co(III) methanol-specific corrinoid protein]:coenzyme M methyltransferase [EC:2.1.1.246]	K14080
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtaB; methanol---5-hydroxybenzimidazolylcobamide Co-methyltransferase [EC:2.1.1.90]	K04480
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtaC; methanol corrinoid protein	K14081
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	dmd-tmd; dimethylamine/trimethylamine dehydrogenase [EC:1.5.8.1 1.5.8.2]	K00317
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtbA; [methyl-Co(III) methylamine-specific corrinoid protein]:coenzyme M methyltransferase [EC:2.1.1.247]	K14082
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtmB; methylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.248]	K16176
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtmC; monomethylamine corrinoid protein	K16177
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mttB; trimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.250]	K14083
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mttC; trimethylamine corrinoid protein	K14084
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtbB; dimethylamine---corrinoid protein Co-methyltransferase [EC:2.1.1.249]	K16178
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtbC; dimethylamine corrinoid protein	K16179
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mcrA; methyl-coenzyme M reductase alpha subunit [EC:2.8.4.1]	K00399
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mcrB; methyl-coenzyme M reductase beta subunit [EC:2.8.4.1]	K00401
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mcrG; methyl-coenzyme M reductase gamma subunit [EC:2.8.4.1]	K00402
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hdrA; heterodisulfide reductase subunit A [EC:1.8.98.1]	K03388
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hdrB; heterodisulfide reductase subunit B [EC:1.8.98.1]	K03389
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hdrC; heterodisulfide reductase subunit C [EC:1.8.98.1]	K03390
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hdrD; heterodisulfide reductase subunit D [EC:1.8.98.1]	K08264
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hdrE; heterodisulfide reductase subunit E [EC:1.8.98.1]	K08265
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	DAS; dihydroxyacetone synthase [EC:2.2.1.3]	K17100
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E2.7.1.29, DAK1, DAK2; dihydroxyacetone kinase [EC:2.7.1.29]	K00863
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	glyA, SHMT; glycine hydroxymethyltransferase [EC:2.1.2.1]	K00600
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	K00830
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	hprA; glycerate dehydrogenase [EC:1.1.1.29]	K00018
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gk; glycerate 2-kinase [EC:2.7.1.165]	K11529
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtkB; malate-CoA ligase subunit alpha [EC:6.2.1.9]	K08692
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mtkA; malate-CoA ligase subunit beta [EC:6.2.1.9]	K14067
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	serA, PHGDH; D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95]	K00058
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	serC, PSAT1; phosphoserine aminotransferase [EC:2.6.1.52]	K00831
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	serB, PSPH; phosphoserine phosphatase [EC:3.1.3.3]	K01079
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E4.3.1.17, sdaA; L-serine dehydratase [EC:4.3.1.17]	K01752
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E4.3.1.19, ilvA, tdcB; threonine dehydratase [EC:4.3.1.19]	K01754
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	SDS, SDH, CHA1; L-serine/L-threonine ammonia-lyase [EC:4.3.1.17 4.3.1.19]	K17989
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GLDC, gcvP; glycine dehydrogenase [EC:1.4.4.2]	K00281
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gcvPA; glycine dehydrogenase subunit 1 [EC:1.4.4.2]	K00282
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gcvPB; glycine dehydrogenase subunit 2 [EC:1.4.4.2]	K00283
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gcvT, AMT; aminomethyltransferase [EC:2.1.2.10]	K00605
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	CPS1; carbamoyl-phosphate synthase (ammonia) [EC:6.3.4.16]	K01948
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	arcC; carbamate kinase [EC:2.7.2.2]	K00926
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cysE; serine O-acetyltransferase [EC:2.3.1.30]	K00640
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cysK; cysteine synthase A [EC:2.5.1.47]	K01738
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cysM; cysteine synthase B [EC:2.5.1.47]	K12339
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ATCYSC1; L-3-cyanoalanine synthase/ cysteine synthase [EC:2.5.1.47 4.4.1.9]	K13034
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	MET17; O-acetylhomoserine/O-acetylserine sulfhydrylase [EC:2.5.1.49 2.5.1.47]	K17069
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	E3.5.1.49; formamidase [EC:3.5.1.49]	K01455
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]	K00249
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ECHS1; enoyl-CoA hydratase [EC:4.2.1.17]	K07511
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	EHHADH; enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8]	K07514
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	HADHA; enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211]	K07515
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	HIBCH; 3-hydroxyisobutyryl-CoA hydrolase [EC:3.1.2.4]	K05605
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	mmsA, iolA, ALDH6A1; malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase [EC:1.2.1.18 1.2.1.27]	K00140
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	cat2, abfT; 4-hydroxybutyrate CoA-transferase [EC:2.8.3.-]	K18122
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	GLYR; glyoxylate/succinic semialdehyde reductase [EC:1.1.1.79 1.1.1.-]	K18121
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	4hbD, abfH; 4-hydroxybutyrate dehydrogenase [EC:1.1.1.61]	K18120
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	gbd; 4-hydroxybutyrate dehydrogenase [EC:1.1.1.61]	K00043
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	yihU; 4-hydroxybutyrate dehydrogenase / sulfolactaldehyde 3-reductase [EC:1.1.1.61 1.1.1.373]	K08318
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	K18119, sucD; succinate-semialdehyde dehydrogenase [EC:1.2.1.76]	K18119
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	crt; enoyl-CoA hydratase [EC:4.2.1.17]	K01715
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]	K01782
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fadB; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8]	K01825
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fadN; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K07516
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	fabV, ter; enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]	K00209
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ccrA; crotonyl-CoA reductase [EC:1.3.1.86]	K17829
+Metabolism		Overview		Carbon metabolism [PATH:ko01200]	01200	ACADS, bcd; butyryl-CoA dehydrogenase [EC:1.3.8.1]	K00248
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ACADS, bcd; butyryl-CoA dehydrogenase [EC:1.3.8.1]	K00248
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CS, gltA; citrate synthase [EC:2.3.3.1]	K01647
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ACO, acnA; aconitate hydratase [EC:4.2.1.3]	K01681
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase [EC:4.2.1.3 4.2.1.99]	K01682
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	K00031
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	IDH3; isocitrate dehydrogenase (NAD+) [EC:1.1.1.41]	K00030
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	LYS21, LYS20; homocitrate synthase [EC:2.3.3.14]	K01655
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ACO2; homoaconitase [EC:4.2.1.-]	K17450
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	LYS4; homoaconitate hydratase [EC:4.2.1.36]	K01705
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	LYS12; homoisocitrate dehydrogenase [EC:1.1.1.87]	K05824
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	HICDH; isocitrate--homoisocitrate dehydrogenase [EC:1.1.1.286]	K17753
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	aksA; methanogen homocitrate synthase [EC:2.3.3.14 2.3.3.-]	K10977
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	aksD; methanogen homoaconitase large subunit [EC:4.2.1.114]	K16792
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	aksE; methanogen homoaconitase small subunit [EC:4.2.1.114]	K16793
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	aksF; methanogen homoisocitrate dehydrogenase [EC:1.1.1.87 1.1.1.-]	K10978
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	GOT1; aspartate aminotransferase, cytoplasmic [EC:2.6.1.1]	K14454
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	GOT2; aspartate aminotransferase, mitochondrial [EC:2.6.1.1]	K14455
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ASP5; aspartate aminotransferase, chloroplastic [EC:2.6.1.1]	K00811
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	aspB; aspartate aminotransferase [EC:2.6.1.1]	K00812
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	aspC; aspartate aminotransferase [EC:2.6.1.1]	K00813
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	yhdR; aspartate aminotransferase [EC:2.6.1.1]	K11358
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	lysC; aspartate kinase [EC:2.7.2.4]	K00928
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	asd; aspartate-semialdehyde dehydrogenase [EC:1.2.1.11]	K00133
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	E2.6.1.76, ectB; diaminobutyrate-2-oxoglutarate transaminase [EC:2.6.1.76]	K00836
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	GPT, ALT; alanine transaminase [EC:2.6.1.2]	K00814
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	alaA; alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]	K14260
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	GGAT; glutamate--glyoxylate aminotransferase [EC:2.6.1.4 2.6.1.2 2.6.1.44]	K14272
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argA; amino-acid N-acetyltransferase [EC:2.3.1.1]	K00619
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argJ; glutamate N-acetyltransferase / amino-acid N-acetyltransferase [EC:2.3.1.35 2.3.1.1]	K00620
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	E2.3.1.1; amino-acid N-acetyltransferase [EC:2.3.1.1]	K00618
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	NAGS; N-acetylglutamate synthase [EC:2.3.1.1]	K11067
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argHA; argininosuccinate lyase / amino-acid N-acetyltransferase [EC:4.3.2.1 2.3.1.1]	K14681
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argAB; amino-acid N-acetyltransferase [EC:2.3.1.1]	K14682
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argB; acetylglutamate kinase [EC:2.7.2.8]	K00930
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argC; N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38]	K00145
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ARG56; N-acetyl-gamma-glutamyl-phosphate reductase / acetylglutamate kinase [EC:1.2.1.38 2.7.2.8]	K12659
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	E2.6.1.11, argD; acetylornithine aminotransferase [EC:2.6.1.11]	K00818
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argD; acetylornithine/N-succinyldiaminopimelate aminotransferase [EC:2.6.1.11 2.6.1.17]	K00821
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argE; acetylornithine deacetylase [EC:3.5.1.16]	K01438
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ACY1; aminoacylase [EC:3.5.1.14]	K14677
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	AADAT, KAT2; kynurenine/2-aminoadipate aminotransferase [EC:2.6.1.7 2.6.1.39]	K00825
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	LYSN; 2-aminoadipate transaminase [EC:2.6.1.-]	K05825
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ARO8; aromatic amino acid aminotransferase I [EC:2.6.1.57 2.6.1.27 2.6.1.5]	K00838
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	lysW; alpha-aminoadipate/glutamate carrier protein LysW	K05826
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	lysX; [lysine-biosynthesis-protein LysW]---L-2-aminoadipate ligase [EC:6.3.2.43]	K05827
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	argX; glutamate--LysW ligase ArgX [EC:6.3.2.-]	K19412
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	lysZ, argB; LysW-gamma-L-alpha-aminoadipate/LysW-L-glutamate kinase [EC:2.7.2.-]	K05828
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	lysY, argC; LysW-gamma-L-alpha-aminoadipyl-6-phosphate/LysW-L-glutamyl-5-phosphate reductase [EC:1.2.1.-]	K05829
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	lysJ, argD; LysW-gamma-L-lysine/LysW-L-ornithine aminotransferase [EC:2.6.1.-]	K05830
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	lysK, argE; LysW-gamma-L-lysine/LysW-L-ornithine carboxypeptidase	K05831
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	cimA; D-citramalate synthase [EC:2.3.1.182]	K09011
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	K01703
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	leuD; 3-isopropylmalate/(R)-2-methylmalate dehydratase small subunit [EC:4.2.1.33 4.2.1.35]	K01704
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	leuB; 3-isopropylmalate dehydrogenase [EC:1.1.1.85]	K00052
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	E2.2.1.6L, ilvB, ilvG, ilvI; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	K01652
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	E2.2.1.6S, ilvH, ilvN; acetolactate synthase I/III small subunit [EC:2.2.1.6]	K01653
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ilvM; acetolactate synthase II small subunit [EC:2.2.1.6]	K11258
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ilvC; ketol-acid reductoisomerase [EC:1.1.1.86]	K00053
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ilvD; dihydroxy-acid dehydratase [EC:4.2.1.9]	K01687
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	E2.6.1.42, ilvE; branched-chain amino acid aminotransferase [EC:2.6.1.42]	K00826
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	K01649
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	LEU1; 3-isopropylmalate dehydratase [EC:4.2.1.33]	K01702
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	IMS3, MAM1; methylthioalkylmalate synthase 1 [EC:2.3.3.-]	K15741
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	IMS2, MAM3; methylthioalkylmalate synthase 3 [EC:2.3.3.-]	K15742
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP79F1; cytochrome P450, family 79, subfamily F, polypeptide 1 [EC:1.14.13.-]	K12154
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP83A1; cytochrome P450, family 83, subfamily A, polypeptide 1 [EC:1.14.-.-]	K12156
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	SUR1, RTY; S-alkyl-thiohydroximate lyase SUR1 [EC:4.4.1.-]	K11819
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	UGT74B1; N-hydroxythioamide S-beta-glucosyltransferase [EC:2.4.1.195]	K11820
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	ST5A_B_C; desulfoglucosinolate sulfotransferase A/B/C [EC:2.8.2.-]	K11821
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP79F2; cytochrome P450, family 79, subfamily F, polypeptide 2 [EC:1.14.13.-]	K12155
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP79D1_2; valine N-monooxygenase [EC:1.14.13.118]	K13401
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP79D3_4; isoleucine N-monooxygenase [EC:1.14.13.117]	K14984
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP79A2; phenylalanine N-monooxygenase [EC:1.14.13.124]	K12153
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP83B1; cytochrome P450, family 83, subfamily B, polypeptide 1 [EC:1.14.-.-]	K11818
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP79B2; tryptophan N-monooxygenase [EC:1.14.13.125]	K11812
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP79B3; tryptophan N-monooxygenase [EC:1.14.13.125]	K11813
+Metabolism		Overview		2-Oxocarboxylic acid metabolism [PATH:ko01210]	01210	CYP79A1; tyrosine N-monooxygenase [EC:1.14.13.41]	K13027
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	CYP79A1; tyrosine N-monooxygenase [EC:1.14.13.41]	K13027
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACACA; acetyl-CoA carboxylase / biotin carboxylase 1 [EC:6.4.1.2 6.3.4.14]	K11262
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	accA; acetyl-CoA carboxylase carboxyl transferase subunit alpha [EC:6.4.1.2]	K01962
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	accB, bccP; acetyl-CoA carboxylase biotin carboxyl carrier protein	K02160
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	accC; acetyl-CoA carboxylase, biotin carboxylase subunit [EC:6.4.1.2 6.3.4.14]	K01961
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	accD; acetyl-CoA carboxylase carboxyl transferase subunit beta [EC:6.4.1.2]	K01963
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	bccA; acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein [EC:6.4.1.2 6.4.1.3 6.3.4.14]	K11263
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	accD6; acetyl-CoA/propionyl-CoA carboxylase carboxyl transferase subunit [EC:6.4.1.2 6.4.1.3]	K18472
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabD; [acyl-carrier-protein] S-malonyltransferase [EC:2.3.1.39]	K00645
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FASN; fatty acid synthase, animal type [EC:2.3.1.85]	K00665
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FAS1; fatty acid synthase subunit beta, fungi type [EC:2.3.1.86]	K00668
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FAS2; fatty acid synthase subunit alpha, fungi type [EC:2.3.1.86]	K00667
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fas; fatty acid synthase, bacteria type [EC:2.3.1.-]	K11533
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	K00648
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabY; acetoacetyl-[acyl-carrier protein] synthase [EC:2.3.1.180]	K18473
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabB; 3-oxoacyl-[acyl-carrier-protein] synthase I [EC:2.3.1.41]	K00647
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	K09458
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabG; 3-oxoacyl-[acyl-carrier protein] reductase [EC:1.1.1.100]	K00059
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabA; 3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] isomerase [EC:4.2.1.59 5.3.3.14]	K01716
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	K02372
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	lpxC-fabZ; UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:3.5.1.108 4.2.1.59]	K16363
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabI; enoyl-[acyl-carrier protein] reductase I [EC:1.3.1.9 1.3.1.10]	K00208
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabK; enoyl-[acyl-carrier protein] reductase II [EC:1.3.1.9]	K02371
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabL; enoyl-[acyl-carrier protein] reductase III [EC:1.3.1.104]	K10780
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fabV, ter; enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+) [EC:1.3.1.9 1.3.1.44]	K00209
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FATB; fatty acyl-ACP thioesterase B [EC:3.1.2.14 3.1.2.21]	K10781
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	DESA1; acyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2]	K03921
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	DESA2; acyl-[acyl-carrier-protein] desaturase [EC:1.14.19.2]	K03922
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	MECR, NRBF1; mitochondrial trans-2-enoyl-CoA reductase [EC:1.3.1.38]	K07512
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	PPT; palmitoyl-protein thioesterase [EC:3.1.2.22]	K01074
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	E2.3.1.9, atoB; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	K00626
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fadA, fadI; acetyl-CoA acyltransferase [EC:2.3.1.16]	K00632
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACAA1; acetyl-CoA acyltransferase 1 [EC:2.3.1.16]	K07513
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACAA2; acetyl-CoA acyltransferase 2 [EC:2.3.1.16]	K07508
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	HADHB; acetyl-CoA acyltransferase [EC:2.3.1.16]	K07509
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fadB; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8]	K01825
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fadJ; 3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]	K01782
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fadN; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K07516
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	HADH; 3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35]	K00022
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	EHHADH; enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8]	K07514
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	MFP2; enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35 1.1.1.211]	K10527
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	paaF, echA; enoyl-CoA hydratase [EC:4.2.1.17]	K01692
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fadB; enoyl-CoA hydratase [EC:4.2.1.17]	K13767
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ECHS1; enoyl-CoA hydratase [EC:4.2.1.17]	K07511
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	HADHA; enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211]	K07515
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	E1.3.3.6, ACOX1, ACOX3; acyl-CoA oxidase [EC:1.3.3.6]	K00232
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACADS, bcd; butyryl-CoA dehydrogenase [EC:1.3.8.1]	K00248
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACADM, acd; acyl-CoA dehydrogenase [EC:1.3.8.7]	K00249
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACADL; long-chain-acyl-CoA dehydrogenase [EC:1.3.8.8]	K00255
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	fadE; acyl-CoA dehydrogenase [EC:1.3.99.-]	K06445
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACADSB; short/branched chain acyl-CoA dehydrogenase [EC:1.3.99.12]	K09478
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACADVL; very long chain acyl-CoA dehydrogenase [EC:1.3.8.9]	K09479
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]	K01897
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ACSBG; long-chain-fatty-acid--CoA ligase ACSBG [EC:6.2.1.3]	K15013
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	CPT1A; carnitine O-palmitoyltransferase 1, liver isoform [EC:2.3.1.21]	K08765
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	CPT1B; carnitine O-palmitoyltransferase 1, muscle isoform [EC:2.3.1.21]	K19523
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	CPT1C; carnitine O-palmitoyltransferase 1, brain isoform [EC:2.3.1.21]	K19524
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	CPT2; carnitine O-palmitoyltransferase 2 [EC:2.3.1.21]	K08766
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ELOVL6; elongation of very long chain fatty acids protein 6 [EC:2.3.1.199]	K10203
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ELO2; fatty acid elongase 2 [EC:2.3.1.199]	K10245
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ELO3; fatty acid elongase 3 [EC:2.3.1.199]	K10246
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	HSD17B12, KAR, IFA38; 17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase [EC:1.1.1.62 1.1.1.330]	K10251
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	PHS1, PAS2; very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase [EC:4.2.1.134]	K10703
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	TER, TSC13, CER10; very-long-chain enoyl-CoA reductase [EC:1.3.1.93]	K10258
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	PECR; peroxisomal trans-2-enoyl-CoA reductase [EC:1.3.1.38]	K07753
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	SCD, desC; stearoyl-CoA desaturase (delta-9 desaturase) [EC:1.14.19.1]	K00507
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FAD6, desA; omega-6 fatty acid desaturase (delta-12 desaturase) [EC:1.14.19.-]	K10255
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FAD2; omega-6 fatty acid desaturase (delta-12 desaturase) [EC:1.14.19.-]	K10256
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FAD8, desB; omega-3 fatty acid desaturase (delta-15 desaturase) [EC:1.14.19.-]	K10257
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FADS2; fatty acid desaturase 2 (delta-6 desaturase) [EC:1.14.19.-]	K10226
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ELOVL5; elongation of very long chain fatty acids protein 5 [EC:2.3.1.199]	K10244
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	FADS1; fatty acid desaturase 1 (delta-5 desaturase) [EC:1.14.19.-]	K10224
+Metabolism		Overview		Fatty acid metabolism [PATH:ko01212]	01212	ELOVL2; elongation of very long chain fatty acids protein 2 [EC:2.3.1.199]	K10205
+Metabolism		Overview		Biosynthesis of amino acids [PATH:ko01230]	01230	ELOVL2; elongation of very long chain fatty acids protein 2 [EC:2.3.1.199]	K10205
+Metabolism		Overview		Biosynthesis of amino acids [PATH:ko01230]	01230	TPI, tpiA; triosephosphate isomerase (TIM) [EC:5.3.1.1]	K01803
+Metabolism		Overview		Biosynthesis of amino acids [PATH:ko01230]	01230	GAPDH, gapA; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	K00134
+Metabolism		Overview		Biosynthesis of amino acids [PATH:ko01230]	01230	gap2; glyceraldehyde-3-phosphate dehydrogenase (NAD(P)) [EC:1.2.1.59]	K00150
+Metabolism		Overview		Biosynthesis of amino acids [PATH:ko01230]	01230	PGK, pgk; phosphoglycerate kinase [EC:2.7.2.3]	K00927
+Metabolism		Overview		Biosynthesis of amino acids [PATH:ko01230]	01230	gapor; glyceraldehyde-3-phosphate dehydrogenase (ferredoxin) [EC:1.2.7.6]	K11389
+Metabolism		Overview		Biosynthesis of amino acids [PATH:ko01230]	01230	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [EC:5.4.2.11]	K01834
+Metabolism		Overview		Biosynthesis of amino acids [PATH:ko01230]	01230	gpmI; 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [EC:5.4.2.12]	K15633

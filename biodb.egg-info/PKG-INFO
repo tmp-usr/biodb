@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: biodb
+Version: 0.1.0
+Summary: Functional and taxonomic databases for households.
+Home-page: http://github.com/tmp-usr/biodb/
+Author: Kemal Sanli
+Author-email: kemalsanli1@gmail.com
+License: MIT
+Description: Biological Database collation project!
+        -------------------------------------
+        
+        Installation
+        ------------
+        
+        >> python setup.py install 
+        
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics

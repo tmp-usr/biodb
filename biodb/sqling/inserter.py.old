@@ -1,0 +1,230 @@
+import re
+
+from biodb_base import BioDBBase
+
+from storm_objects import BioDB, Hierarchy
+
+
+class Inserter(BioDBBase):
+    def __init__(self, db_name, tmp_db_path):
+        BioDBBase.__init__(self, db_name)
+        self.tmp_db_path= tmp_db_path
+
+        if self.init_table():
+            msg= """
+            The database exists, use the updator module!
+            """
+            raise Exception(msg)
+        else:
+            """
+            - read the temporary biodb file
+            - create tables
+            - insert features
+            - commit
+            - insert hierarchies
+            - commit
+            - flush
+            """
+            
+            self.read_features_from_tmp()
+            self.create_tables()
+            self.insert_features_and_hierarchies()
+            #self.store.commit()
+            #self.insert_hierarchies()
+            #self.store.commit()
+            #self.store.flush()
+
+
+    def create_tables(self):
+        self.create_biodb_string='CREATE TABLE '+ self.biodb_table +' (id INTEGER PRIMARY KEY, name VARCHAR, accession VARCHAR, level INTEGER)'
+
+        self.create_hier_string='CREATE TABLE '+ self.hier_table +' (childID INTEGER, parentID INTEGER, PRIMARY KEY  (childID, parentID), FOREIGN KEY (childID) REFERENCES '+ self.biodb_table+'(id), FOREIGN KEY (parentID) REFERENCES '+ self.biodb_table +'(id))'
+
+        self.store.execute(self.create_biodb_string)
+        self.store.execute(self.create_hier_string)
+
+
+    def read_features_from_tmp(self):
+        self.raw_features=[]
+        all_features= {} # key (level, name); value (id, accession)
+        id=0
+        with open(self.tmp_db_path) as f:
+            for line in f:
+                columns=line.rstrip().split('\t')
+                levelCount=len(columns)/2
+                feature_hierarchy=[]
+                
+                for i in range(levelCount*2)[::2]:
+                    feature={}
+                    
+                    columns[i]= re.sub(r'[^\x00-\x7F]+','', columns[i])
+                    
+                    name= columns[i]
+                    accession = columns[i+1]
+                    level = (i / 2) + 1
+                    if (name, level) in all_features:
+                        id, accession= all_features[(name,level)]
+                        
+                    else:
+                        id+=1
+                        all_features[(name, level)] = (id, accession)
+                    
+                    feature_hierarchy.append([id, accession, name, level])
+                
+
+                for i in range(len(feature_hierarchy)):
+                    
+                    child_feature= feature_hierarchy[i]
+                    self.insert_feature(child_feature[0], child_feature[1],
+                        child_feature[2], child_feature[3])
+
+                    if feature[level] != 1:
+                        parent_feature= feature_hierarchy[i-1]
+                        try:
+                            self.insert_hierarchy(child_feature[0], parent_feature[0])
+                        except:
+                            msg= """
+                                 Hierarchy exists!
+                            """
+                            pass
+
+                id_hierarchy= [f[0] for f in feature_hierarchy]
+                print id_hierarcy[-1], ";".join(id_hierarchy)
+                #self.raw_features.append(feature_hierarchy)
+
+    
+    def insert_feature(self,id, name, accession, level):
+        b=BioDB()
+        b.id= int(id)
+        b.name = unicode(name)
+        b.accession = unicode(accession)
+        b.level = int(level)
+
+        self.store.add(b)
+
+
+
+
+    def get_feature_from_hierarchy(self, feature_hierarchy, parent_id=0, last_id= 0):
+        
+        id_hierarchy= []
+        n_levels = len(feature_hierarchy)
+        
+        for i in range(len(feature_hierarchy)):
+            level= i+1
+            
+            name= feature_hierarchy[i].keys()[0].strip()
+            accession= feature_hierarchy[i].values()[0].strip()
+            
+            #id = child_id = last_id
+            #parent_id= parent_id
+            
+            #id_hierarchy.append(id)
+            
+            #if level < n_levels:
+            #    parent_id= id
+
+
+
+
+    def insert_features_and_hierarchies(self):
+        level_count= len(self.raw_features[0])
+        id=0
+        levels={i:{} for i in range(1,level_count+1)}
+        #names_unq={}
+        self.accessions={}
+
+        for feature_hierarchy in self.raw_features:
+
+            assert len(feature_hierarchy) == level_count, "something wrong with the tmp db input file"
+            
+            import pdb
+            pdb.set_trace()
+
+            for i in range(len(feature_hierarchy)):
+
+                level=i+1
+
+                name= feature_hierarchy[i].keys()[0].strip()
+                accession= feature_hierarchy[i].values()[0].strip()
+
+                # testing if the accession exists within the current level
+                if accession != "" and accession not in self.accessions:
+                    self.accessions[accession] = name
+
+                elif accession != "" and accession in self.accessions:
+                    continue
+
+                # testing if the name,accession pair exists within the current level
+                if name not in levels[level]:
+                    if self.db_name == 'ncbi':
+                        id=int(accession)
+                    else:
+                        id+=1
+
+                else:
+                    if accession != "":
+                        name += '; %s' % accession
+                        id+=1
+
+                    else:
+                        continue
+
+                levels[level][name] = id
+                self.insert_feature(id, name, accession, level)
+
+
+    def insert_hierarchy(self, child_id, parent_id):
+        h= Hierarchy()
+        h.childID= child_id
+        h.parentID= parent_id
+        assert parent_id is not "", "Parent ID cannot be blank!"
+        assert child_id is not "", "Parent ID cannot be blank!"
+        self.store.add(h)
+
+
+
+    def insert_hierarchies(self):
+        """
+            insert hierarchies to the fantom database
+        """
+        
+        level_count= len(self.raw_features[0])
+
+        for feature_hierarchy in self.raw_features:
+            for i in range(len(feature_hierarchy)):
+                name=feature_hierarchy[i].keys()[0].strip()
+                accession=feature_hierarchy[i].values()[0].strip()
+                
+                
+                if accession in self.accessions:
+                    name = self.accessions[accession]
+
+                feature = self.store.find(BioDB, (BioDB.accession == unicode(accession) )  & (BioDB.name == unicode(name)) ).one()
+
+                if not feature:
+                    name += '; %s' % accession
+                    feature = self.store.find(BioDB, (BioDB.accession == unicode(accession) )  & (BioDB.name == unicode(name)) ).one()
+
+                if feature.level == 1:
+                    parent_id= 0
+
+                else:
+                    parent_name=feature_hierarchy[i-1].keys()[0].strip()
+                    parent_accession= feature_hierarchy[i-1].values()[0].strip()
+
+                    try:
+                        parent_id=self.store.find(BioDB, (BioDB.name == unicode(parent_name)) & (BioDB.accession == unicode(parent_accession)) ).one().id
+                    except:
+                        parent_name+= "; %s" % parent_accession
+                        parent_id=self.store.find(BioDB, (BioDB.name == unicode(parent_name)) & (BioDB.accession == unicode(parent_accession)) ).one().id
+                self.insert_hierarchy(feature.id, parent_id)
+
+
+
+
+
+    
+
+
+
